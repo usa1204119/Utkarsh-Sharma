@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  Technical Trainer | Coder | Tech Enthusiast
+  Startup Enthusiast | Django Developer | Problem Solver
 </p>
 
 <div align="center">
@@ -52,7 +52,7 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud Computing, Artificial Intelligence/Machine Learning, and high-quality streaming technologies. With a proven track record of driving innovation, I am committed to leveraging advanced AI solutions to boost productivity and foster creative problem-solving in technology. My passion for pushing the boundaries of modern technology equips me to deliver exceptional results in complex and dynamic environments.
+As a skilled Django Python Developer, I specialize in building robust and scalable web applications with a focus on creating seamless user experiences. With expertise in RESTful APIs, database management, and front-end integration, I am dedicated to delivering high-quality solutions that meet client needs. My passion for clean code and best practices drives me to continuously improve application performance and security. I thrive in collaborative environments and enjoy tackling complex challenges to produce innovative and efficient software solutions.
 
 <h3 align="center">Git Stats</h3>
 <div align="center">
@@ -141,7 +141,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <!-- [![Repography](https://reporoster.com/stars/dark/RAFIKSHA/RAFIKSHA)](https://github.com/RAFIKSHA/RAFIKSHA)-->
 
 <details>
-  <summary><img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;GitHub Star History for RAFIKSHA&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /></summary>
+  <summary><img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;GitHub Star History for Utkarsh Sharma&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /></summary>
 
   <h2>Star History Chart</h2>
   <a href="https://star-history.com/#RAFIKSHA/RAFIKSHA&Date">
@@ -648,7 +648,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <h3>
 <div align="center">
   
-⭐️ From [RAFIKSHA](https://github.com/RAFIKSHA) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
+⭐️ From [RAFIKSHA]() | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
 
 
 </div>
